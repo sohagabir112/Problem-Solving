@@ -6,7 +6,7 @@ public:
         int n = s.size();
         
         unordered_map<char, int>f;
-        int res = INT_MIN;
+        int res = 0;
         for(high=0; high<n; high++){
             f[s[high]]++;
             while(f[s[high]]>1){
@@ -15,6 +15,6 @@ public:
             }
             res = max(res, high-low+1);
         }
-        return res==INT_MIN? 0:res;
+        return res;
     }
 };

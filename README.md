@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sohagabir112/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohagabir112/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sohagabir112/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sohagabir112/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/sohagabir112/Problem-Solving/tree/master/0904-fruit-into-baskets) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sohagabir112/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohagabir112/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sohagabir112/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sohagabir112/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sohagabir112/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sohagabir112/Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sohagabir112/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/sohagabir112/Problem-Solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |

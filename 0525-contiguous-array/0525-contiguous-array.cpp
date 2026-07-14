@@ -18,6 +18,7 @@ public:
             int diff = zero - one;
             if(diff == 0){
                 res = max(res, i+1);
+                continue;
             }
             if(f.find(diff) == f.end()){
                 f[diff] = i;
